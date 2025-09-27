@@ -1,7 +1,7 @@
 # 🚀 Exercícios - Programadores do Amanhã
 
 Este repositório contém as atividades e exercícios do programa **Programadores do Amanhã (PDA)**.  
-Os exercícios estão organizados por **módulo (m1, m2, ...)** e por **seções/aulas (s1, s2, ...)**.
+Os exercícios estão organizados por **módulo (m1, m2, ...)** e por **semanas (s1, s2, ...)**.
 
 ---
 
